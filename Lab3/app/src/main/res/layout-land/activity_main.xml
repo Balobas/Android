@@ -11,7 +11,7 @@
         android:id="@+id/name_input"
         android:layout_width="265dp"
         android:layout_height="85dp"
-        android:layout_marginTop="272dp"
+        android:layout_marginTop="120dp"
         android:background="#CAC9C9"
         android:editable="true"
         android:ellipsize="none"

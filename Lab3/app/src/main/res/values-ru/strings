@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Лабораторная 3</string>
+    <string name="name_input_hint">Введите имя</string>
+    <string name="photo_btn_text">Фото</string>
+    <string name="camera_error_message">Ошибка открытия камеры</string>
+    <string name="invalid_name_message">Введите корректное имя</string>
+</resources>

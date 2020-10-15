@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Lab3</string>
+    <string name="name_input_hint">Enter your name</string>
+    <string name="photo_btn_text">Photo</string>
+    <string name="camera_error_message">Camera open error</string>
+    <string name="invalid_name_message">Enter valid name</string>
 </resources>
